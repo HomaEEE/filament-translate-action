@@ -1,8 +1,8 @@
 {
-    "name": "HomaEEE/filament-translate-action",
+    "name": "homaeee/filament-translate-action",
     "description": "Translate action for FilamentPHP",
     "keywords": [
-        "HomaEEE",
+        "Homaeee",
         "laravel",
         "filament-translate-action"
     ],
