@@ -1,15 +1,15 @@
 {
-    "name": "afsakar/filament-translate-action",
+    "name": "HomaEEE/filament-translate-action.",
     "description": "Translate action for FilamentPHP",
     "keywords": [
-        "afsakar",
+        "HomaEEE",
         "laravel",
         "filament-translate-action"
     ],
-    "homepage": "https://github.com/afsakar/filament-translate-action",
+    "homepage": "https://github.com/HomaEEE/filament-translate-action",
     "support": {
-        "issues": "https://github.com/afsakar/filament-translate-action/issues",
-        "source": "https://github.com/afsakar/filament-translate-action"
+        "issues": "https://github.com/HomaEEE/filament-translate-action/issues",
+        "source": "https://github.com/HomaEEE/filament-translate-action"
     },
     "license": "MIT",
     "authors": [
