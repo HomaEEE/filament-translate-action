@@ -2,14 +2,15 @@
     "name": "homaeee/filament-translate-action",
     "description": "Translate action for FilamentPHP",
     "keywords": [
-        "Homaeee",
+        "homaeee",
+        "afsakar",
         "laravel",
         "filament-translate-action"
     ],
-    "homepage": "https://github.com/HomaEEE/filament-translate-action",
+    "homepage": "https://github.com/afsakar/filament-translate-action",
     "support": {
-        "issues": "https://github.com/HomaEEE/filament-translate-action/issues",
-        "source": "https://github.com/HomaEEE/filament-translate-action"
+        "issues": "https://github.com/afsakar/filament-translate-action/issues",
+        "source": "https://github.com/afsakar/filament-translate-action"
     },
     "license": "MIT",
     "authors": [
@@ -28,8 +29,8 @@
     "require-dev": {
         "laravel/pint": "^1.0",
         "nunomaduro/collision": "^7.9",
-        "nunomaduro/larastan": "^2.0.1",
-        "orchestra/testbench": "^8.0",
+        "nunomaduro/larastan": "^3.0",
+        "orchestra/testbench": "^8.0|^9.0",
         "pestphp/pest": "^2.0",
         "pestphp/pest-plugin-arch": "^2.0",
         "pestphp/pest-plugin-laravel": "^2.0",
